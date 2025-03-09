@@ -1,6 +1,6 @@
 # GIRAS-GPS-Solutions
 GIRAS (GNSS-IR Analysis Software) is an open-source MATLAB-based software for GNSS-IR analysis.
-Version: 1.0.0
+- Version: 1.0.0 (Published in GPS Solutions: Altuntas, C., & Tunalioglu, N. (2022). GIRAS: an open-source MATLAB-based software for GNSS-IR analysis. GPS Solutions, 26(1), 16.)
 
 ## Overview
 GIRAS is an open-source software for GNSS-IR (Global Navigation Satellite System - Interferometric Reflectometry) analysis. It provides tools for file reading, data analysis, and data visualization, developed in MATLAB R2018b.
