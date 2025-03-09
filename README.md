@@ -5,6 +5,9 @@ Version: 1.0.0
 ## Overview
 GIRAS is an open-source software for GNSS-IR (Global Navigation Satellite System - Interferometric Reflectometry) analysis. It provides tools for file reading, data analysis, and data visualization, developed in MATLAB R2018b.
 
+![image](https://github.com/user-attachments/assets/2172b54d-77a0-4d09-bbd1-33f3c7b365a6)
+
+
 ## Features
 - Support for multi-GNSS data (GPS, GLONASS, Galileo, Beidou)
 - Compatible with RINEX 2 and RINEX 3 observation files
