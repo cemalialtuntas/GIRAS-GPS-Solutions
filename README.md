@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed4fd0bf-e1f0-4f37-94cb-6994eea7ea6b)
+![image](https://github.com/user-attachments/assets/f32ebc4a-74e9-46c3-83f7-23140ad919c3)
 
 # GIRAS-GPS-Solutions
 GIRAS (GNSS-IR Analysis Software) is an open-source MATLAB-based software for GNSS-IR analysis.
